@@ -7,6 +7,7 @@
 # Search by address
 
 ### The task of the second year of Yandex Lyceum
+###### It is necessary to create a console application that will display its image on the screen at the entered address
 
 #### To work with the program, you need to get API key:
 * [Geocoder](https://yandex.com/dev/maps/geocoder/)
@@ -27,6 +28,7 @@ python main.py Moscow Moscow Kremlin
 # Поиск по адресу
 
 ### Задание второго курса Яндекс Лицея
+###### Необходимо создать консольное приложение, которое по введённому адресу выведет его изображение на экран
 
 #### Для работы с программой вам необходимо получить API ключ: 
 * [Геокодер](https://yandex.ru/dev/maps/geocoder/)
